@@ -13,7 +13,7 @@ id_pattern = re.compile(r'^.\d+$')
 SESSION = environ.get('SESSION', 'COLONOL BOT')
 API_ID = int(environ.get('API_ID', '12618934'))
 API_HASH = environ.get('API_HASH', '49aacd0bc2f8924add29fb02e20c8a16')
-BOT_TOKEN = environ.get('BOT_TOKEN', "7548204664:AAG1VeyBlblrByRx8CY7UqtnSt8__p5wfZ4")
+BOT_TOKEN = environ.get('BOT_TOKEN', "7548204664:AAE4TDIwjRgSNywSpJ4MQsxOGOuZCFLYr8c")
 
 
 # This Pictures Is For Start Message Picture, You Can Add Multiple By Giving One Space Between Each.
